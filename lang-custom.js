@@ -42,7 +42,7 @@ chatLangCallback({
     "S_AGENT_ADDED":"{0} added to conversation",
     "S_AGENT_END":"Agent ended the chat.",
     "S_CUSTOMER_END":"Customer ended the chat.",
-    "S_START_NEW": "Start New Chat",
+    "S_START_NEW": "Start New Convo",
     "S_THANK_YOU_OR":"or",
     "S_CLOSE_WINDOW":"Close Window",
     "S_TYPING": "Typing...",
